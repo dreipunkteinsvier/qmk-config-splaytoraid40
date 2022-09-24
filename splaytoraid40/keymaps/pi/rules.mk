@@ -6,6 +6,3 @@ RGB_MATRIX_ENABLE = no     # Enable keyboard RGB matrix (do not use together wit
 
 #CAPS WORD
 CAPS_WORD_ENABLE = yes
-
-#CONVERT to KB2040
-CONVERT_TO=kb2040
